@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Chroma vector database
+chroma/
+
+# Optional: OS & editor junk
+.DS_Store
+Thumbs.db
+.vscode/
